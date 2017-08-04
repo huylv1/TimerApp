@@ -1,5 +1,6 @@
 # generated file from webpack
 public/bundle.js
+public/bundle.js.map
 
 # Logs
 logs
